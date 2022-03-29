@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(235, 231, 231);
+    padding: 15px;
+}
+/* main-div */
+.main-div{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 20px;
+    width: fit-content;
+    margin-left: 30%;
+}
+/* logo img */
+.logo-img img{
+    width: 70%;
+    /* margin-left: 30px; */
+}
+.top-line{
+    padding: 5px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(120, 157, 161);
+    border-width: 10px;
+    width: 10%;
+}
+section{
+    text-align: -webkit-center;
+}
